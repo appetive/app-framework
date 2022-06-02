@@ -1,0 +1,32 @@
+{
+    "name": "appetive/app-framework",
+    "description": "Simplifies the process of generating system framework.",
+    "license": "Proprietary",
+    "authors": [
+        {
+            "name": "Appetive",
+            "email": "app@appetive.com",
+            "homepage": "appetive.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "require-dev": {
+ 
+    },
+    "autoload": {
+        "psr-4": {
+            "Appetive\\AppFramework\\": "source/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+      
+        }
+    },
+    "config": {
+
+    }
+}
