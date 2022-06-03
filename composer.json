@@ -1,13 +1,13 @@
 {
     "name": "appetive/app-framework",
     "description": "Simplifies the process of generating system framework.",
-    "license": "Proprietary",
+    "license": "UNLICENSED",
     "private": true,
     "authors": [
         {
             "name": "Appetive",
             "email": "app@appetive.com",
-            "homepage": "appetive.com"
+            "homepage": "https://github.com/appetive"
         }
     ],
     "require": {
