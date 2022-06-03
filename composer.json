@@ -2,6 +2,7 @@
     "name": "appetive/app-framework",
     "description": "Simplifies the process of generating system framework.",
     "license": "Proprietary",
+    "private": true,
     "authors": [
         {
             "name": "Appetive",
